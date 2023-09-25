@@ -158,7 +158,7 @@ function scrollActive(){
 }
 window.addEventListener('scroll', scrollActive)
 
-/*==================== CHANGE BACKGROUND HEADER ====================*/ 
+/*==================== CHANGE BACKGROUND HEADER ====================*/
 function scrollHeader(){
     const nav = document.getElementById('header')
     // When the scroll is greater than 80 viewport height, add the scroll-header class to the header tag
@@ -166,7 +166,7 @@ function scrollHeader(){
 }
 window.addEventListener('scroll', scrollHeader)
 
-/*==================== SHOW SCROLL UP ====================*/ 
+/*==================== SHOW SCROLL UP ====================*/
 function scrollUp(){
     const scrollUp = document.getElementById('scroll-up');
     // When the scroll is higher than 560 viewport height, add the show-scroll class to the a tag with the scroll-up class
@@ -174,7 +174,7 @@ function scrollUp(){
 }
 window.addEventListener('scroll', scrollUp)
 
-/*==================== DARK LIGHT THEME ====================*/ 
+/*==================== DARK LIGHT THEME ====================*/
 const themeButton = document.getElementById('theme-button')
 const darkTheme = 'dark-theme'
 const iconTheme = 'uil-sun'
@@ -207,10 +207,10 @@ themeButton.addEventListener('click', () => {
 /*===== Typing Effect =====*/
 const typingSpan = document.querySelector(".home__typing");
 const cursorSpan = document.querySelector(".home__cursor");
-const typingText = ["A CS student", "A programmer", "A Pythonist"];
-const typingDelay = 100;
+const typingText = ["A CS student", "A Pythonist", "A bibliophile", "A Poet"];
+const typingDelay = 75;
 const erasingDelay = 75;
-const newTextDelay = 1500;
+const newTextDelay = 1000;
 
 let textIndex = 0;
 let charIndex = 0;
@@ -245,7 +245,7 @@ function erase() {
 
         if (textIndex >= typingText.length)
             textIndex = 0;
-        
+
         setTimeout(type, typingDelay + 1000);
     }
 }

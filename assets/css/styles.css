@@ -152,7 +152,7 @@ img {
   margin-bottom: var(--mb-3);
 }
 
-.section__title, 
+.section__title,
 .section__subtitle {
   text-align: center;
 }
@@ -345,7 +345,7 @@ img {
   font-size: var(--smaller-font-size);
   color: var(--title-color);
   font-weight: var(--font-medium);
-  margin-right: var(--mb-0-25); 
+  margin-right: var(--mb-0-25);
 }
 
 .home__scroll-arrow {
@@ -566,6 +566,12 @@ img {
   grid-template-columns: 1fr max-content 1fr;
   column-gap: 1.5rem;
 }
+
+.qualification__description {
+  text-align: center;
+  margin-bottom: var(--mb-2-5);
+}
+
 .qualification__title {
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
