@@ -1,0 +1,16 @@
+---
+permalink: /
+layout: home
+title: Rain Leung
+---
+
+<main class="main">
+
+    {% assign sections = site.sections | sort: 'order' %}
+    {% for section in sections %}
+        {% if section.include != null %}
+            {% include {{ section.include }} %}
+        {% endif %}
+    {% endfor %}
+
+</main>
