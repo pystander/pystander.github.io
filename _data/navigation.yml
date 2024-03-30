@@ -1,15 +1,25 @@
-- name: Home
-  link: /
-- name: About
+sections:
+- title: About
   link: /#about
-- name: Skills
-  link: /#skills
-- name: Qualification
-  link: /#qualification
-- name: Portfolio
-  link: /#portfolio
-- name: Contact
-  link: /#contact
+  icon: user
 
-- name: Blog
-  link: /blog.html
+- title: Skills
+  link: /#skills
+  icon: file-alt
+
+- title: Qualification
+  link: /#qualification
+  icon: graduation-cap
+
+- title: Portfolio
+  link: /#portfolio
+  icon: scenery
+
+- title: Contact
+  link: /#contact
+  icon: message
+
+# - title: Blog
+#   link: /blog.html
+#   class: nav__link
+#   icon: book
