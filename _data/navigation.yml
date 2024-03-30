@@ -1,0 +1,25 @@
+sections:
+- title: About
+  link: /#about
+  icon: user
+
+- title: Skills
+  link: /#skills
+  icon: file-alt
+
+- title: Qualification
+  link: /#qualification
+  icon: graduation-cap
+
+- title: Portfolio
+  link: /#portfolio
+  icon: scenery
+
+- title: Contact
+  link: /#contact
+  icon: message
+
+# - title: Blog
+#   link: /blog.html
+#   class: nav__link
+#   icon: book
