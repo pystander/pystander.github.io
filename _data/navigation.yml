@@ -18,8 +18,3 @@ sections:
 - title: Contact
   link: /#contact
   icon: message
-
-# - title: Blog
-#   link: /blog.html
-#   class: nav__link
-#   icon: book
