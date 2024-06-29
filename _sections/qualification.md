@@ -73,42 +73,6 @@ sid: qualification
             <!--==================== QUALIFICATION 3 ====================-->
             <div class="qualification__data">
                 <div>
-                    <h3 class="qualification__title">Second Failure in HKDSE Exam</h3>
-                    <span class="qualification__subtitle"></span>
-                    <div class="qualification__calendar">
-                        <i class="uil uil-calendar-alt"></i>
-                        2019
-                    </div>
-                </div>
-
-                <div>
-                    <span class="qualification__rounter"></span>
-                    <span class="qualification__line"></span>
-                </div>
-            </div>
-
-            <!--==================== QUALIFICATION 2 ====================-->
-            <div class="qualification__data">
-                <div></div>
-
-                <div>
-                    <span class="qualification__rounter"></span>
-                    <span class="qualification__line"></span>
-                </div>
-
-                <div>
-                    <h3 class="qualification__title">First Failure in HKDSE Exam</h3>
-                    <span class="qualification__subtitle"></span>
-                    <div class="qualification__calendar">
-                        <i class="uil uil-calendar-alt"></i>
-                        2018
-                    </div>
-                </div>
-            </div>
-
-            <!--==================== QUALIFICATION 5 ====================-->
-            <div class="qualification__data">
-                <div>
                     <h3 class="qualification__title">Hong Kong Diploma of Secondary Education</h3>
                     <span class="qualification__subtitle">Kwun Tong Maryknoll College</span>
                     <div class="qualification__calendar">
