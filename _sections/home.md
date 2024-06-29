@@ -30,7 +30,7 @@ sid: home
                 <span class="home__cursor"></span>
             </h3>
             <p class="home__description">
-                Currently a Computer Science student at the University of Hong Kong.
+                Recent CS graduate from the University of Hong Kong.
             </p>
             <a href="#contact" class="button button--flex">
                 Contact<i class="uil uil-message button__icon"></i>

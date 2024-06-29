@@ -19,7 +19,7 @@ sid: skills
 
                 <div>
                     <h1 class="skills__title">Programming</h1>
-                    <span class="skills__subtitle">More than 5 years</span>
+                    <span class="skills__subtitle">More than 6 years</span>
                 </div>
 
                 <i class="uil uil-angle-down skills__arrow"></i>
@@ -79,7 +79,7 @@ sid: skills
 
                 <div>
                     <h1 class="skills__title">Web Application</h1>
-                    <span class="skills__subtitle">Less than 1 year</span>
+                    <span class="skills__subtitle">More than 1 year</span>
                 </div>
 
                 <i class="uil uil-angle-down skills__arrow"></i>
@@ -89,7 +89,7 @@ sid: skills
                 <div class="skills__data">
                     <div class="skills__titles">
                         <h3 class="skills__name">HTML</h3>
-                        <span class="skills__number">70%</span>
+                        <span class="skills__number">75%</span>
                     </div>
 
                     <div class="skills__bar">
@@ -100,7 +100,7 @@ sid: skills
                 <div class="skills__data">
                     <div class="skills__titles">
                         <h3 class="skills__name">JavaScript</h3>
-                        <span class="skills__number">25%</span>
+                        <span class="skills__number">35%</span>
                     </div>
 
                     <div class="skills__bar">
@@ -128,7 +128,7 @@ sid: skills
 
                 <div>
                     <h1 class="skills__title">Game Development</h1>
-                    <span class="skills__subtitle">Less than 1 year</span>
+                    <span class="skills__subtitle">More than 1 year</span>
                 </div>
 
                 <i class="uil uil-angle-down skills__arrow"></i>
@@ -138,7 +138,7 @@ sid: skills
                 <div class="skills__data">
                     <div class="skills__titles">
                         <h3 class="skills__name">Unity (C#)</h3>
-                        <span class="skills__number">65%</span>
+                        <span class="skills__number">70%</span>
                     </div>
 
                     <div class="skills__bar">
@@ -160,7 +160,7 @@ sid: skills
                 <div class="skills__data">
                     <div class="skills__titles">
                         <h3 class="skills__name">Blender</h3>
-                        <span class="skills__number">25%</span>
+                        <span class="skills__number">35%</span>
                     </div>
 
                     <div class="skills__bar">
@@ -181,7 +181,7 @@ sid: skills
 
                 <div>
                     <h1 class="skills__title">Data Science & AI/ML</h1>
-                    <span class="skills__subtitle">More than 1 year</span>
+                    <span class="skills__subtitle">More than 2 year</span>
                 </div>
 
                 <i class="uil uil-angle-down skills__arrow"></i>
@@ -191,7 +191,7 @@ sid: skills
                 <div class="skills__data">
                     <div class="skills__titles">
                         <h3 class="skills__name">Pandas</h3>
-                        <span class="skills__number">65%</span>
+                        <span class="skills__number">70%</span>
                     </div>
 
                     <div class="skills__bar">
@@ -202,7 +202,7 @@ sid: skills
                 <div class="skills__data">
                     <div class="skills__titles">
                         <h3 class="skills__name">NumPy</h3>
-                        <span class="skills__number">70%</span>
+                        <span class="skills__number">75%</span>
                     </div>
 
                     <div class="skills__bar">
@@ -213,7 +213,7 @@ sid: skills
                 <div class="skills__data">
                     <div class="skills__titles">
                         <h3 class="skills__name">PyTorch</h3>
-                        <span class="skills__number">55%</span>
+                        <span class="skills__number">60%</span>
                     </div>
 
                     <div class="skills__bar">
@@ -224,7 +224,7 @@ sid: skills
                 <div class="skills__data">
                     <div class="skills__titles">
                         <h3 class="skills__name">Web Scraping</h3>
-                        <span class="skills__number">70%</span>
+                        <span class="skills__number">75%</span>
                     </div>
 
                     <div class="skills__bar">
