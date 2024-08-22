@@ -13,10 +13,11 @@ sid: about
 
     <div class="about__data">
         <p class="about__description">
-            I consider myself as a self-motivated and inquisitive person, with strong enthusiasm in technology.
-            <br>
-            <br>
-            As an interest-driven person, I keep my eyes and an open mind on topics that attract me.
+            I consider myself a self-motivated and inquisitive person, with a strong passion towards technology.
+
+            <br><br>
+
+            As an interest-driven learner, I always keep my eyes on the lastest tech, and work on projects out of pure curiosity.
         </p>
 
         <!-- <div class="about__info">

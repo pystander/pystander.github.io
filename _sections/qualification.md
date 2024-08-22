@@ -8,16 +8,20 @@ sid: qualification
 <h2 class="section__title">Qualification</h2>
 <span class="section__subtitle">My personal journey</span>
 
-<div class="qualification__description">
+<!-- <div class="qualification__description">
     My life has never been smooth sailing.
-    <br>
-    <br>
+
+    <br><br>
+
     There were times when I was lost and confused,
-    <br>
+
+    <br><br>
+
     but these setbacks and scars had taught me resilience.
-</div>
+</div> -->
 
 <div class="qualification__container container">
+
     <div class="qualification__tabs">
         <div class="qualification__button button--flex qualification__active" data-target="#education">
             <i class="uil uil-graduation-cap qualification__icon"></i>

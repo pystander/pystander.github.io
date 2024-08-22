@@ -18,7 +18,7 @@ sid: home
         </div>
 
         <div class="home__img">
-            <img src="assets/img/book_hon_no_mushi_man_bug.png">
+            <img src="assets/img/kikokushijo_boy.png">
         </div>
 
         <div class="home__data">
