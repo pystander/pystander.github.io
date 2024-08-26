@@ -13,7 +13,7 @@ sid: portfolio
     <div class="swiper-wrapper">
         <!--==================== PORTFOLIO 1 ====================-->
         <div class="portfolio__content grid swiper-slide">
-            <img src="assets/img/word_sea.png" alt="" class="portfolio__img">
+            <img src="assets/img//portfolio/word_sea.png" alt="" class="portfolio__img">
 
             <div class="portfolio__data">
                 <h3 class="portfolio__title">Word Sea</h3>
@@ -29,7 +29,7 @@ sid: portfolio
 
         <!--==================== PORTFOLIO 2 ====================-->
         <div class="portfolio__content grid swiper-slide">
-            <img src="assets/img/road_to_castle_3d.png" alt="" class="portfolio__img">
+            <img src="assets/img/portfolio/road_to_castle_3d.png" alt="" class="portfolio__img">
 
             <div class="portfolio__data">
                 <h3 class="portfolio__title">The Road to Castle 3D</h3>
@@ -45,7 +45,7 @@ sid: portfolio
 
         <!--==================== PORTFOLIO 3 ====================-->
         <div class="portfolio__content grid swiper-slide">
-            <img src="assets/img/pacman_game.gif" alt="" class="portfolio__img">
+            <img src="assets/img/portfolio/pacman_game.gif" alt="" class="portfolio__img">
 
             <div class="portfolio__data">
                 <h3 class="portfolio__title">Berkeley-AI-Pacman</h3>
