@@ -27,7 +27,7 @@ sid: home
             </h1>
             <h3 class="home__subtitle">
                 <span class="home__typing"></span>
-                <span class="home__cursor"></span>
+                <span class="home__cursor">&nbsp;</span>
             </h3>
             <p class="home__description">
                 Recent CS graduate from the University of Hong Kong.

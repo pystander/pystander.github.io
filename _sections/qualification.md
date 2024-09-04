@@ -65,7 +65,7 @@ sid: qualification
                 </div>
 
                 <div>
-                    <h3 class="qualification__title">Associate in Engineering, with Distinction</h3>
+                    <h3 class="qualification__title">Associate in Engineering</h3>
                     <span class="qualification__subtitle">Hong Kong Community College</span>
                     <div class="qualification__calendar">
                         <i class="uil uil-calendar-alt"></i>

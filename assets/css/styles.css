@@ -354,8 +354,7 @@ img {
 
 .home__cursor {
   display: inline-block;
-  margin-left: .1rem;
-  width: 2px;
+  width: 5px;
   animation:
     blink 1s step-end infinite;
 }
