@@ -1,0 +1,4 @@
+# Man shall be lifted by his own creation.
+
+User-agent: *
+Disallow: /assets/*

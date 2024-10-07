@@ -179,7 +179,7 @@ sid: skills
 
             <div class="skills__data">
                 <div class="skills__titles">
-                    <h3 class="skills__name">Spring Boot</h3>
+                    <h3 class="skills__name">Spring</h3>
                     <span class="skills__number">55%</span>
                 </div>
 
