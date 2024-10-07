@@ -98,17 +98,36 @@ sid: qualification
             <!--==================== QUALIFICATION 1 ====================-->
             <div class="qualification__data">
                 <div>
-                    <h3 class="qualification__title">Summer Intern</h3>
-                    <span class="qualification__subtitle">MTR Corporation Limited</span>
+                    <h3 class="qualification__title">Data Engineer</h3>
+                    <span class="qualification__subtitle">Lalamove</span>
                     <div class="qualification__calendar">
                         <i class="uil uil-calendar-alt"></i>
-                        Jun 2023 - Aug 2023
+                        Sep 2024 - Present
                     </div>
                 </div>
 
                 <div>
                     <span class="qualification__rounter"></span>
                     <span class="qualification__line"></span>
+                </div>
+            </div>
+
+            <!--==================== QUALIFICATION 2 ====================-->
+            <div class="qualification__data">
+                <div></div>
+
+                <div>
+                    <span class="qualification__rounter"></span>
+                    <span class="qualification__line"></span>
+                </div>
+
+                <div>
+                    <h3 class="qualification__title">Summer Intern</h3>
+                    <span class="qualification__subtitle">MTR Corporation Limited</span>
+                    <div class="qualification__calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        Jun 2023 - Aug 2023
+                    </div>
                 </div>
             </div>
         </div>

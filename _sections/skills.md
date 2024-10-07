@@ -76,7 +76,7 @@ sid: skills
             <i class="uil uil-brain skills__icon"></i>
 
             <div>
-                <h1 class="skills__title">Data Science & AI/ML</h1>
+                <h1 class="skills__title">Data & AI/ML</h1>
                 <span class="skills__subtitle">More than 2 year</span>
             </div>
 
@@ -116,17 +116,6 @@ sid: skills
                     <span class="skills__percentage skills__photoshop"></span>
                 </div>
             </div>
-
-            <div class="skills__data">
-                <div class="skills__titles">
-                    <h3 class="skills__name">Web Scraping</h3>
-                    <span class="skills__number">80%</span>
-                </div>
-
-                <div class="skills__bar">
-                    <span class="skills__percentage skills__photoshop"></span>
-                </div>
-            </div>
         </div>
     </div>
 
@@ -146,19 +135,8 @@ sid: skills
         <div class="skills__list grid">
             <div class="skills__data">
                 <div class="skills__titles">
-                    <h3 class="skills__name">HTML</h3>
-                    <span class="skills__number">75%</span>
-                </div>
-
-                <div class="skills__bar">
-                    <span class="skills__percentage"></span>
-                </div>
-            </div>
-
-            <div class="skills__data">
-                <div class="skills__titles">
-                    <h3 class="skills__name">CSS</h3>
-                    <span class="skills__number">30%</span>
+                    <h3 class="skills__name">HTML & CSS</h3>
+                    <span class="skills__number">60%</span>
                 </div>
 
                 <div class="skills__bar">
@@ -179,8 +157,41 @@ sid: skills
 
             <div class="skills__data">
                 <div class="skills__titles">
+                    <h3 class="skills__name">Flask</h3>
+                    <span class="skills__number">60%</span>
+                </div>
+
+                <div class="skills__bar">
+                    <span class="skills__percentage"></span>
+                </div>
+            </div>
+
+            <div class="skills__data">
+                <div class="skills__titles">
+                    <h3 class="skills__name">FastAPI</h3>
+                    <span class="skills__number">40%</span>
+                </div>
+
+                <div class="skills__bar">
+                    <span class="skills__percentage"></span>
+                </div>
+            </div>
+
+            <div class="skills__data">
+                <div class="skills__titles">
                     <h3 class="skills__name">Spring Boot</h3>
-                    <span class="skills__number">15%</span>
+                    <span class="skills__number">55%</span>
+                </div>
+
+                <div class="skills__bar">
+                    <span class="skills__percentage"></span>
+                </div>
+            </div>
+
+            <div class="skills__data">
+                <div class="skills__titles">
+                    <h3 class="skills__name">Redis</h3>
+                    <span class="skills__number">25%</span>
                 </div>
 
                 <div class="skills__bar">
@@ -207,7 +218,7 @@ sid: skills
             <div class="skills__data">
                 <div class="skills__titles">
                     <h3 class="skills__name">SQL</h3>
-                    <span class="skills__number">55%</span>
+                    <span class="skills__number">65%</span>
                 </div>
 
                 <div class="skills__bar">
@@ -217,7 +228,18 @@ sid: skills
 
             <div class="skills__data">
                 <div class="skills__titles">
-                    <h3 class="skills__name">NoSQL (MongoDB)</h3>
+                    <h3 class="skills__name">MySQL</h3>
+                    <span class="skills__number">50%</span>
+                </div>
+
+                <div class="skills__bar">
+                    <span class="skills__percentage skills__photoshop"></span>
+                </div>
+            </div>
+
+            <div class="skills__data">
+                <div class="skills__titles">
+                    <h3 class="skills__name">MongoDB</h3>
                     <span class="skills__number">30%</span>
                 </div>
 
@@ -320,7 +342,7 @@ sid: skills
         <div class="skills__list grid">
             <div class="skills__data">
                 <div class="skills__titles">
-                    <h3 class="skills__name">Git</h3>
+                    <h3 class="skills__name">Linux</h3>
                     <span class="skills__number">50%</span>
                 </div>
 
@@ -331,8 +353,8 @@ sid: skills
 
             <div class="skills__data">
                 <div class="skills__titles">
-                    <h3 class="skills__name">Arduino</h3>
-                    <span class="skills__number">35%</span>
+                    <h3 class="skills__name">Git</h3>
+                    <span class="skills__number">55%</span>
                 </div>
 
                 <div class="skills__bar">
@@ -342,7 +364,18 @@ sid: skills
 
             <div class="skills__data">
                 <div class="skills__titles">
-                    <h3 class="skills__name">Verilog</h3>
+                    <h3 class="skills__name">Docker</h3>
+                    <span class="skills__number">45%</span>
+                </div>
+
+                <div class="skills__bar">
+                    <span class="skills__percentage skills__figma"></span>
+                </div>
+            </div>
+
+            <div class="skills__data">
+                <div class="skills__titles">
+                    <h3 class="skills__name">Kubernetes</h3>
                     <span class="skills__number">20%</span>
                 </div>
 
@@ -351,27 +384,6 @@ sid: skills
                 </div>
             </div>
 
-            <div class="skills__data">
-                <div class="skills__titles">
-                    <h3 class="skills__name">AutoCAD</h3>
-                    <span class="skills__number">15%</span>
-                </div>
-
-                <div class="skills__bar">
-                    <span class="skills__percentage skills__figma"></span>
-                </div>
-            </div>
-
-            <div class="skills__data">
-                <div class="skills__titles">
-                    <h3 class="skills__name">SolidWorks</h3>
-                    <span class="skills__number">15%</span>
-                </div>
-
-                <div class="skills__bar">
-                    <span class="skills__percentage skills__figma"></span>
-                </div>
-            </div>
         </div>
     </div>
 
