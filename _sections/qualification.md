@@ -1,6 +1,6 @@
 ---
 order: 4
-include: sections.html
+include: section.html
 class: qualification section
 sid: qualification
 ---

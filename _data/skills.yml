@@ -1,0 +1,82 @@
+- title: Programming
+  subtitle: More than 6 years
+  icon: brackets-curly
+  details:
+    - name: Python
+      percentage: 75%
+    - name: Java
+      percentage: 70%
+    - name: C++
+      percentage: 55%
+    - name: C
+      percentage: 40%
+
+- title: Data & AI/ML
+  subtitle: More than 2 years
+  icon: robot
+  details:
+    - name: Pandas
+      percentage: 75%
+    - name: Numpy
+      percentage: 70%
+    - name: PyTorch
+      percentage: 50%
+
+- title: Web Development
+  subtitle: More than 1 years
+  icon: browser
+  details:
+    - name: HTML & CSS
+      percentage: 70%
+    - name: JavaScript
+      percentage: 35%
+    - name: Flask
+      percentage: 60%
+    - name: FastAPI
+      percentage: 40%
+    - name: Spring
+      percentage: 55%
+    - name: Redis
+      percentage: 25%
+
+- title: Database
+  subtitle: More than 1 years
+  icon: database
+  details:
+    - name: SQL
+      percentage: 75%
+    - name: MySQL
+      percentage: 60%
+    - name: MongoDB
+      percentage: 30%
+
+- title: Game Development
+  subtitle: More than 1 years
+  icon: rocket
+  details:
+    - name: Unity (C#)
+      percentage: 70%
+    - name: SketchUp
+      percentage: 75%
+    - name: Blender
+      percentage: 35%
+
+- title: App Development
+  subtitle: Less than 1 years
+  icon: apps
+  details:
+    - name: Android (Java)
+      percentage: 50%
+
+- title: Miscellaneous
+  subtitle:
+  icon: question-circle
+  details:
+    - name: Linux
+      percentage: 50%
+    - name: Git
+      percentage: 65%
+    - name: Docker
+      percentage: 45%
+    - name: Kubernetes
+      percentage: 30%

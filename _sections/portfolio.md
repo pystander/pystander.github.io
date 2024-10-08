@@ -1,6 +1,6 @@
 ---
 order: 5
-include: sections.html
+include: section.html
 class: portfolio section
 sid: portfolio
 ---

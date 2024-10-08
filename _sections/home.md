@@ -1,6 +1,6 @@
 ---
 order: 1
-include: sections.html
+include: section.html
 class: home section
 sid: home
 ---

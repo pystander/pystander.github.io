@@ -1,6 +1,6 @@
 ---
 order: 2
-include: sections.html
+include: section.html
 class: about section
 sid: about
 ---

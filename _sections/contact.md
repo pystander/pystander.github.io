@@ -1,6 +1,6 @@
 ---
 order: 6
-include: sections.html
+include: section.html
 class: contact section
 sid: contact
 ---
