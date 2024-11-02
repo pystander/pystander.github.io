@@ -1,0 +1,20 @@
+- title: Word Sea
+  description: A pure-Python app in MVC architecture for self-learning English vocabularies.
+  img: assets/img/portfolio/word_sea.jpg
+  href: https://github.com/pystander/Word-Sea
+  href_text: GitHub
+  icon: github
+
+- title: Simple ML
+  description: Minimal Python implementaion of ML algorithms and models.
+  img: assets/img/portfolio/no_image_yoko.jpg
+  href: https://github.com/pystander/Simple-ML
+  href_text: GitHub
+  icon: github
+
+- title: The Road to Castle 3D
+  description: A 3D rework of The Road to Castle, originally a text-based RPG on Linux.
+  img: assets/img/portfolio/road_to_castle_3d.jpg
+  href: https://wp2023.cs.hku.hk/fyp23002/
+  href_text: Website
+  icon: external-link-alt

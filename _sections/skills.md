@@ -25,6 +25,7 @@ sid: skills
         </div>
 
         <div class="skills__list grid">
+
             {% for detail in skill.details %}
             <div class="skills__data">
                 <div class="skills__titles">
@@ -37,6 +38,7 @@ sid: skills
                 </div>
             </div>
             {% endfor %}
+
         </div>
     </div>
     {% endfor %}
