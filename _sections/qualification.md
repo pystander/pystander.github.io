@@ -35,101 +35,50 @@ sid: qualification
     </div>
 
     <div class="qualification__sections">
-        <!--==================== QUALIFICATION CONTENT 1 ====================-->
-        <div class="qualification__content qualification__active" data-content id="education">
 
-            <!--==================== QUALIFICATION 1 ====================-->
+    {% for content in site.data.qualifications %}
+
+        {% if forloop.first == true %}
+            <div class="qualification__content qualification__active" data-content id="{{ content.id }}">
+        {% else %}
+            <div class="qualification__content" data-content id="{{ content.id }}">
+        {% endif %}
+
+        {% for qualification in content.details %}
+            {% assign remainder = forloop.index | modulo: 2 %}
+
             <div class="qualification__data">
+
+                {% if remainder == 1 %}
+                    <div></div>
+
+                    <div>
+                        <span class="qualification__rounter"></span>
+                        <span class="qualification__line"></span>
+                    </div>
+                {% endif %}
+
                 <div>
-                    <h3 class="qualification__title">Bachelor of Engineering in Computer Science</h3>
-                    <span class="qualification__subtitle">The University of Hong Kong</span>
+                    <h3 class="qualification__title">{{ qualification.title }}</h3>
+                    <span class="qualification__subtitle">{{ qualification.subtitle }}</span>
                     <div class="qualification__calendar">
                         <i class="uil uil-calendar-alt"></i>
-                        2021 - 2024
+                        {{ qualification.date }}
                     </div>
                 </div>
 
-                <div>
-                    <span class="qualification__rounter"></span>
-                    <span class="qualification__line"></span>
-                </div>
-            </div>
-
-            <!--==================== QUALIFICATION 2 ====================-->
-            <div class="qualification__data">
-                <div></div>
-
-                <div>
-                    <span class="qualification__rounter"></span>
-                    <span class="qualification__line"></span>
-                </div>
-
-                <div>
-                    <h3 class="qualification__title">Associate in Engineering</h3>
-                    <span class="qualification__subtitle">Hong Kong Community College</span>
-                    <div class="qualification__calendar">
-                        <i class="uil uil-calendar-alt"></i>
-                        2019 - 2021
+                {% if remainder == 0 %}
+                    <div>
+                        <span class="qualification__rounter"></span>
+                        <span class="qualification__line"></span>
                     </div>
-                </div>
-            </div>
+                {% endif %}
 
-            <!--==================== QUALIFICATION 3 ====================-->
-            <div class="qualification__data">
-                <div>
-                    <h3 class="qualification__title">Hong Kong Diploma of Secondary Education</h3>
-                    <span class="qualification__subtitle">Kwun Tong Maryknoll College</span>
-                    <div class="qualification__calendar">
-                        <i class="uil uil-calendar-alt"></i>
-                        2012 - 2018
-                    </div>
-                </div>
-
-                <div>
-                    <span class="qualification__rounter"></span>
-                    <span class="qualification__line"></span>
-                </div>
             </div>
+        {% endfor %}
+
         </div>
+    {% endfor %}
 
-        <!--==================== QUALIFICATION CONTENT 2 ====================-->
-        <div class="qualification__content" data-content id="work">
-
-            <!--==================== QUALIFICATION 1 ====================-->
-            <div class="qualification__data">
-                <div>
-                    <h3 class="qualification__title">Data Engineer</h3>
-                    <span class="qualification__subtitle">Lalamove</span>
-                    <div class="qualification__calendar">
-                        <i class="uil uil-calendar-alt"></i>
-                        Sep 2024 - Present
-                    </div>
-                </div>
-
-                <div>
-                    <span class="qualification__rounter"></span>
-                    <span class="qualification__line"></span>
-                </div>
-            </div>
-
-            <!--==================== QUALIFICATION 2 ====================-->
-            <div class="qualification__data">
-                <div></div>
-
-                <div>
-                    <span class="qualification__rounter"></span>
-                    <span class="qualification__line"></span>
-                </div>
-
-                <div>
-                    <h3 class="qualification__title">Summer Intern</h3>
-                    <span class="qualification__subtitle">MTR Corporation Limited</span>
-                    <div class="qualification__calendar">
-                        <i class="uil uil-calendar-alt"></i>
-                        Jun 2023 - Aug 2023
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 </div>

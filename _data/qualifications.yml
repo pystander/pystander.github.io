@@ -1,0 +1,20 @@
+- id: education
+  details:
+  - title: Bachelor of Engineering in Computer Science
+    subtitle: The University of Hong Kong
+    date: 2021 - 2024
+  - title: Associate in Engineering
+    subtitle: Hong Kong Community College
+    date: 2019 - 2021
+  - title: Hong Kong Diploma of Secondary Education
+    subtitle: Kwun Tong Maryknoll College
+    date: 2012 - 2018
+
+- id: work
+  details:
+  - title: Data Engineer
+    subtitle: Lalamove
+    date: Sep 2024 - Present
+  - title: Summer Intern
+    subtitle: MTR Corporation Limited
+    date: Jun 2023 - Aug 2023
