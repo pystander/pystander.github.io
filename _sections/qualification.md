@@ -49,7 +49,7 @@ sid: qualification
 
             <div class="qualification__data">
 
-                {% if remainder == 1 %}
+                {% if remainder == 0 %}
                     <div></div>
 
                     <div>
@@ -67,7 +67,7 @@ sid: qualification
                     </div>
                 </div>
 
-                {% if remainder == 0 %}
+                {% if remainder == 1 %}
                     <div>
                         <span class="qualification__rounter"></span>
                         <span class="qualification__line"></span>
