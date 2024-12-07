@@ -24,7 +24,7 @@ sid: about
         </div> -->
 
         <div class="about__buttons">
-            <a href="assets/pdf/RainLeung_CV_GitHub.pdf" target="_blank" class="button button--flex">
+            <a href="assets/pdf/RainLeung_CV.pdf" target="_blank" class="button button--flex">
                 View CV
                 <i class="uil uil-eye button__icon"></i>
             </a>
