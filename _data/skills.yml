@@ -1,5 +1,5 @@
 - title: Programming
-  subtitle: More than 6 years
+  subtitle: More than 7 years
   icon: brackets-curly
   details:
     - name: Python
@@ -30,12 +30,12 @@
       percentage: 70%
     - name: JavaScript
       percentage: 35%
+    - name: Spring Boot
+      percentage: 65%
     - name: Flask
       percentage: 60%
     - name: FastAPI
       percentage: 40%
-    - name: Spring
-      percentage: 55%
     - name: Redis
       percentage: 25%
 
@@ -49,6 +49,10 @@
       percentage: 60%
     - name: MongoDB
       percentage: 30%
+    - name: HBase
+      percentage: 35%
+    - name: Neo4j
+      percentage: 20%
 
 - title: Game Development
   subtitle: More than 1 years

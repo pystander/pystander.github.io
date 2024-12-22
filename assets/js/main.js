@@ -207,7 +207,7 @@ themeButton.addEventListener('click', () => {
 /*===== Typing Effect =====*/
 const typingSpan = document.querySelector(".home__typing");
 const cursorSpan = document.querySelector(".home__cursor");
-const typingText = ["A developer", "A tech enthusiast", "A quick learner", "A team player"];
+const typingText = ["A data engineer", "A tech enthusiast", "A quick learner", "A team player"];
 const typingDelay = 75;
 const erasingDelay = 75;
 const newTextDelay = 1000;

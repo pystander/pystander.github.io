@@ -26,7 +26,7 @@ sid: contact
 
             <div>
                 <h3 class="contact__title">Email</h3>
-                <span class="contact__subtitle">rainleung0218@gmail.com</span>
+                <span class="contact__subtitle">rainleung0218[at]gmail.com</span>
             </div>
         </div>
 
