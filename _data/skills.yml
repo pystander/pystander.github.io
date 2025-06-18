@@ -1,20 +1,24 @@
 - title: Programming
-  subtitle: More than 7 years
+  subtitle: More than 8 years
   icon: brackets-curly
   details:
     - name: Python
       percentage: 75%
     - name: Java
-      percentage: 70%
+      percentage: 80%
     - name: C++
       percentage: 55%
     - name: C
       percentage: 40%
 
 - title: Data & AI/ML
-  subtitle: More than 2 years
+  subtitle: More than 3 years
   icon: robot
   details:
+    - name: Hadoop
+      percentage: 20%
+    - name: Kafka
+      percentage: 35%
     - name: Pandas
       percentage: 75%
     - name: Numpy
@@ -26,33 +30,29 @@
   subtitle: More than 1 years
   icon: browser
   details:
-    - name: HTML & CSS
-      percentage: 70%
-    - name: JavaScript
-      percentage: 35%
     - name: Spring Boot
-      percentage: 65%
+      percentage: 80%
     - name: Flask
-      percentage: 60%
+      percentage: 50%
     - name: FastAPI
       percentage: 40%
-    - name: Redis
-      percentage: 25%
+    - name: HTML & CSS
+      percentage: 65%
+    - name: JavaScript
+      percentage: 30%
 
 - title: Database
   subtitle: More than 1 years
   icon: database
   details:
-    - name: SQL
-      percentage: 75%
     - name: MySQL
-      percentage: 60%
-    - name: MongoDB
-      percentage: 30%
+      percentage: 80%
     - name: HBase
       percentage: 35%
-    - name: Neo4j
-      percentage: 20%
+    - name: Phoenix
+      percentage: 35%
+    - name: Redis
+      percentage: 50%
 
 - title: Game Development
   subtitle: More than 1 years
@@ -79,8 +79,8 @@
     - name: Linux
       percentage: 50%
     - name: Git
-      percentage: 65%
+      percentage: 75%
     - name: Docker
-      percentage: 45%
-    - name: Kubernetes
-      percentage: 30%
+      percentage: 55%
+    - name: K8S
+      percentage: 40%
