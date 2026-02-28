@@ -30,7 +30,7 @@ sid: home
                 <span class="home__cursor">&nbsp;</span>
             </h3>
             <p class="home__description">
-                Recent CS graduate from the University of Hong Kong.
+                A passionate and self-driven big data engineer.
             </p>
             <a href="#contact" class="button button--flex">
                 Contact<i class="uil uil-message button__icon"></i>
