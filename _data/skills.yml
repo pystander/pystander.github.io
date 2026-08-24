@@ -1,86 +1,103 @@
 - title: Programming
-  subtitle: More than 9 years
+  subtitle: 10+ years
   icon: brackets-curly
   details:
     - name: Java
-      percentage: 80%
+      percentage: 85%
     - name: Python
       percentage: 75%
     - name: C++
-      percentage: 55%
-    - name: C
-      percentage: 40%
-
-- title: Data & AI/ML
-  subtitle: More than 4 years
-  icon: robot
-  details:
-    - name: Hadoop
-      percentage: 30%
-    - name: Kafka
-      percentage: 40%
-    - name: Pandas
-      percentage: 75%
-    - name: Numpy
-      percentage: 70%
-    - name: PyTorch
       percentage: 50%
+    - name: C
+      percentage: 35%
 
-- title: Database
-  subtitle: More than 2 years
+- title: Databases
+  subtitle: 4+ years
   icon: database
   details:
     - name: MySQL
-      percentage: 85%
+      percentage: 90%
     - name: HBase
-      percentage: 55%
-    - name: Phoenix
-      percentage: 50%
-    - name: Redis
-      percentage: 70%
-
-- title: Web Development
-  subtitle: More than 1 years
-  icon: browser
-  details:
-    - name: Spring Boot
-      percentage: 80%
-    - name: Flask
-      percentage: 50%
-    - name: FastAPI
-      percentage: 40%
-    - name: HTML & CSS
       percentage: 65%
-    - name: JavaScript
-      percentage: 30%
-
-- title: Game Development
-  subtitle: More than 1 years
-  icon: rocket
-  details:
-    - name: Unity (C#)
-      percentage: 70%
-    - name: SketchUp
+    - name: Phoenix
+      percentage: 60%
+    - name: Redis
       percentage: 75%
-    - name: Blender
-      percentage: 35%
+    - name: Doris
+      percentage: 25%
 
-- title: App Development
-  subtitle: Less than 1 years
-  icon: apps
+- title: Big Data & AI/ML
+  subtitle: 5+ years
+  icon: robot
   details:
-    - name: Android (Java)
-      percentage: 50%
+    - name: Hadoop
+      percentage: 40%
+    - name: Kafka
+      percentage: 55%
+    - name: Pandas
+      percentage: 70%
+    - name: Numpy
+      percentage: 65%
+    - name: PyTorch
+      percentage: 45%
 
-- title: Miscellaneous
-  subtitle:
-  icon: question-circle
+- title: DevOps
+  subtitle: 1+ year
+  icon: cog
   details:
     - name: Linux
       percentage: 70%
-    - name: Git
-      percentage: 75%
     - name: Docker
       percentage: 60%
     - name: K8S
       percentage: 55%
+    - name: Git
+      percentage: 75%
+    - name: Prometheus
+      percentage: 25%
+    - name: Grafana
+      percentage: 25%
+
+- title: Web Development
+  subtitle: 3+ years
+  icon: browser
+  details:
+    - name: Spring Boot
+      percentage: 85%
+    - name: Flask
+      percentage: 50%
+    - name: FastAPI
+      percentage: 40%
+    - name: Jekyll
+      percentage: 60%
+
+# - title: Game Development
+#   subtitle: 1+ years
+#   icon: rocket
+#   details:
+#     - name: Unity (C#)
+#       percentage: 70%
+#     - name: SketchUp
+#       percentage: 75%
+#     - name: Blender
+#       percentage: 35%
+
+# - title: App Development
+#   subtitle: Less than 1 years
+#   icon: apps
+#   details:
+#     - name: Android (Java)
+#       percentage: 50%
+
+# - title: Miscellaneous
+#   subtitle:
+#   icon: question-circle
+#   details:
+#     - name: Linux
+#       percentage: 70%
+#     - name: Git
+#       percentage: 75%
+#     - name: Docker
+#       percentage: 60%
+#     - name: K8S
+#       percentage: 55%
