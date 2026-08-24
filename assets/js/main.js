@@ -184,7 +184,7 @@ const selectedTheme = localStorage.getItem('selected-theme')
 const selectedIcon = localStorage.getItem('selected-icon')
 
 // We obtain the current theme that the interface has by validating the dark-theme class
-const getCurrentTheme = () => document.body.classList.contains(darkTheme) ? 'light' : 'dark'
+const getCurrentTheme = () => document.body.classList.contains(darkTheme) ? 'dark' : 'light'
 const getCurrentIcon = () => themeButton.classList.contains(iconTheme) ? 'uil-moon' : 'uil-sun'
 
 // We validate if the user previously chose a topic
@@ -203,6 +203,12 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
+
+// Use the dark theme by default
+document.body.classList.toggle(darkTheme)
+themeButton.classList.toggle(iconTheme)
+localStorage.setItem('selected-theme', getCurrentTheme())
+localStorage.setItem('selected-icon', getCurrentIcon())
 
 /*===== Typing Effect =====*/
 const typingSpan = document.querySelector(".home__typing");
